@@ -1,6 +1,7 @@
 <template>
   <header>
     <h1>{{ title }}</h1>
+    <a href="https://google.com">google</a>
   </header>
 </template>
 
